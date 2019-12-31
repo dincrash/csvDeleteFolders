@@ -10,7 +10,7 @@ public class CsvDeleteFolders extends JFrame {
 
     public static void main(String[] args) throws Throwable {
         CsvDeleteFolders main = new CsvDeleteFolders();
-//        main.deleteFile(fileName);
+        main.deleteFile(fileName);
         main.TFFrame();
     }
 

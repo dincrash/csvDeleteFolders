@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>org.example</groupId>
-    <artifactId>csvDeleteFolders</artifactId>
+    <artifactId>CsvDeleteFolders</artifactId>
     <version>1.0-SNAPSHOT</version>
     <build>
         <plugins>
@@ -16,7 +16,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>basic.CsvDeleteFolders.java</mainClass>
+                            <mainClass>basic.CsvDeleteFolders</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
