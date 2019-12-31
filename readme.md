@@ -19,4 +19,7 @@ install maven dependencies
 .jar need open as administrator for taskkill network computer app  and 
 delete folders
 
-<img src="1.png" width="400">
+c:\\tmp\2.csv folder csv
+in 2.csv 3 column: pc name, 2 path to delete file
+and filename
+c:\\tmp\otchet.txt log.file
