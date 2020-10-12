@@ -23,3 +23,18 @@ c:\\tmp\2.csv folder csv
 in 2.csv 3 column: pc name, 2 path to delete file
 and filename
 c:\\tmp\otchet.txt log.file
+
+
+<img src="2.png" width="400">
+
+csvDeleteFolders удаляет сразу все
+запускать от админа
+c:\\tmp\2.csv
+копируем из xlsx 3 колонки пк, путь, имя файла
+удаляет, что не удаляет пишет в c:\\tmp\otchet.txt 
+
+OneFile удаляет одиночный файл(папку)/ килл процесса
+пример 
+копируем 3 поля и сразу забиваем в ппуть к папке удаления без удаления пробелов
+C000007068	C:\Program Files\Tracker Software\PDF-XChange Lite	pdfSaverL.EXE
+жмем кнопку удалить
